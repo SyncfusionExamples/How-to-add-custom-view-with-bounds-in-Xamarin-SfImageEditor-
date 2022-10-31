@@ -37,6 +37,6 @@
 
   <ItemGroup>
     <PackageReference Include="Syncfusion.Xamarin.SfImageEditor" Version="*" />
-    <PackageReference Include="Xamarin.Forms" Version="4.7.0.1179" />
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2196" />
   </ItemGroup>
 </Project>
